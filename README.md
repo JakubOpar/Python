@@ -1,2 +1,2 @@
 # Nauka programowania w Python
-![Python](python.jpg)
+![Python](python.png)
